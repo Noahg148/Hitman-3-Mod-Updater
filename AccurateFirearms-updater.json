@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
-    "changelog": "Initial release",
-    "url": "https://github.com/Noahg148/Accurate-Firearms/releases/download/1.0.0/Accurate-Firearms-1.0.0.zip"
+    "version": "2.0.0",
+    "changelog": "- Added the new Bartoli 75S 'Lucky Knight' and Kalmer 3 - Cure Gun from Patient Zero Requiem.\n- Added optional setting to make bullets travel instantly.\n- Added optional setting to remove shotgun spread to make all bullets hit the exact center of the crosshair.",
+    "url": "https://github.com/Noahg148/Accurate-Firearms/releases/download/2.0.0/Accurate-Firearms-2.0.0.zip"
 }
