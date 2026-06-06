@@ -1,5 +1,5 @@
 {
-    "version": "4.0.0",
-    "changelog": "- Visual improvements to sabers: they are now mirrored like katanas and axes.\n- Reduced item clipping with certain suits and disguises.\n- Split melee items into two categories for more options.\n- Added GitHub updater.",
-    "url": "https://github.com/Noahg148/Dual-Back-Support-for-All-Items/releases/download/4.0.0/Dual-Back-Support-for-All-Items-4.0.0.zip"
+    "version": "4.1.0",
+    "changelog": "- autoUpdate",
+    "url": "https://github.com/Noahg148/Dual-Back-Support-for-All-Items/releases/download/4.1.0/Dual-Back-Support-for-All-Items-4.1.0.zip"
 }
